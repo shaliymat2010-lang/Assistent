@@ -1,0 +1,10 @@
+{
+    "theme": "Dunkel",
+    "programme": [
+        {
+            "befehl": "spotify",
+            "name": "Spotify",
+            "pfad": "spotify.exe"
+        }
+    ]
+}
